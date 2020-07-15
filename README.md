@@ -1,16 +1,23 @@
-### Hi there 👋
+<p align="center">
+  <img width="350" alt="Here's some fancy flowchart schematics animation created by [Owen Chikazawa](https://www.wewander.tv/)." src="https://raw.githubusercontent.com/jamestiotio/jamestiotio/master/assets/flowchart.gif">
+</p>
 
-<!--
-**jamestiotio/jamestiotio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p>
+  <img align="right" alt="*whisper whisper*" src="https://raw.githubusercontent.com/jamestiotio/jamestiotio/master/assets/mona-whisper.gif">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there! 👋
+
+I am James Raphael Tiovalen. Just trying my best in making a ✨ _better_ ✨ world through 💻 **technology** 💻.
+
+- 💬 Ask me about anything!
+- 📫 How to reach me: [jamestiotio@gmail.com](mailto:jamestiotio@gmail.com)
+- 😄 Pronouns: `he/him/his`
+
+---
+
+<p align="center">
+  <img alt="Here's a hug for you, if you're into that sorta thing. Credit to [Toby Fox](https://twitter.com/tobyfox)." src="https://raw.githubusercontent.com/jamestiotio/jamestiotio/master/assets/hug.gif">
+</p>
