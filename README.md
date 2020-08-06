@@ -16,6 +16,10 @@ I am James Raphael Tiovalen. Just trying my best in making a ✨ _better_ ✨ wo
 - 📫 How to reach me: [jamestiotio@gmail.com](mailto:jamestiotio@gmail.com)
 - 😄 Pronouns: `he/him/his`
 
+<p align="center">
+  <img alt="Humanity's Technological Progress on Kardashev Scale: 72.684% to Type 1 Civilization." src="https://raw.githubusercontent.com/jamestiotio/jamestiotio/master/assets/kardashev.svg">
+</p>
+
 ---
 
 <p align="center">
