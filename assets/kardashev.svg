@@ -42,7 +42,7 @@
         .bar::before{
           content:  attr(data-text);
           width: calc(72.684% - 10px);
-          background-color: #a6cfe3;
+          background-color: #004cff;
           display: inline-block;
           padding: 5px 0 5px 10px;
           border-radius: inherit;
