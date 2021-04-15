@@ -16,7 +16,7 @@ I am James Raphael Tiovalen. Just trying my best in making a ✨ _better_ ✨ wo
 - 📫 How to reach me: [jamestiotio@gmail.com](mailto:jamestiotio@gmail.com)
 - 😄 Pronouns: `he/him/his`
 
-Currently reverse-engineering the source code of the universe and reality itself.
+Currently attempting to reverse-engineer the source code of the universe and reality itself.
 
 <a href="https://www.buymeacoffee.com/jamestiotio" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-violet.png" alt="Buy Me A Milo!" width="217" height="51"></a>
 
