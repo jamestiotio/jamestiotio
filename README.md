@@ -10,7 +10,7 @@
 
 ### Hi there! 👋
 
-I am James Raphael Tiovalen. Just trying my best in making a ✨ _better_ ✨ world through (multidisciplinary) 💻 **technology** 💻. Seeking to build 🛠️, tinker ⚙️, improve 📈, explore 🏕️, nurture 😇, love ❤️, advise 📙, learn 📚, ponder 🤔, teach 🧑, edify 🙌, serve 💁, inspire 💡 and just have fun 🎉!
+I am James Raphael Tiovalen. Just trying my best in making a ✨ _better_ ✨ world through multidisciplinary 💻 **technology** 💻. Seeking to build 🛠️, tinker ⚙️, improve 📈, explore 🏕️, nurture 😇, love ❤️, advise 📙, learn 📚, ponder 🤔, teach 🧑, edify 🙌, serve 💁, inspire 💡 and just have fun 🎉!
 
 - 💬 Ask me about anything!
 - 📫 How to reach me: [jamestiotio@gmail.com](mailto:jamestiotio@gmail.com)
