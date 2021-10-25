@@ -18,6 +18,8 @@ I am James Raphael Tiovalen. Just trying my best in making a ✨ _better_ ✨ wo
 
 Currently attempting to reverse-engineer the source code of the universe and reality itself.
 
+Here to make a better world for everyone (and maybe decrease entropy along the way).
+
 <a href="https://www.buymeacoffee.com/jamestiotio" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-violet.png" alt="Buy Me A Milo!" width="217" height="51"></a> <a href='https://ko-fi.com/jamestiotio' target='_blank'><img height='51' style='border:0px;height:51px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <p align="center">
