@@ -16,13 +16,13 @@ I am James Raphael Tiovalen. Just trying my best in making a ✨ _better_ ✨ wo
 - 📫 How to reach me: [jamestiotio@gmail.com](mailto:jamestiotio@gmail.com)
 - 😄 Pronouns: `he/him/his`
 
-Currently attempting to reverse-engineer the source code of the universe and reality itself.
+Currently attempting to reverse-engineer the source code of reality.
 
-Here to make a better world for everyone (and maybe decrease entropy along the way).
+Here to make a better world for everyone.
 
 Hoping for the day when humanity finally switches from Versus mode to Co-Op mode.
 
-Constantly moving from one liminal space to another.
+Dabbling in bitmancy every now and then.
 
 <a href="https://www.buymeacoffee.com/jamestiotio" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-violet.png" alt="Buy Me A Milo!" width="217" height="51"></a> <a href='https://ko-fi.com/jamestiotio' target='_blank'><img height='51' style='border:0px;height:51px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
