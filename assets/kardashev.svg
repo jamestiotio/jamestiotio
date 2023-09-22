@@ -41,7 +41,7 @@
         }
         .bar::before{
           content:  attr(data-text);
-          width: calc(72.684% - 10px);
+          width: calc(72.758% - 10px);
           background-color: #004cff;
           display: inline-block;
           padding: 5px 0 5px 10px;
@@ -54,7 +54,7 @@
       </style>
       <div class="container">
         <h4>Humanity's Technological Progress on Kardashev Scale:</h4>
-        <div class="bar" data-text="72.684%&#160;to&#160;Type&#160;1&#160;Civilization"></div>
+        <div class="bar" data-text="72.758%&#160;to&#160;Type&#160;1&#160;Civilization"></div>
       </div>
     </div>
   </foreignObject>
